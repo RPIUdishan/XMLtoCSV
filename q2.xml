@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<!DOCTYPE cwml>
+<cwml >
+  <problemset display-mode="all" randomize-answer-order="yes">
+    <title>
+      <text><![CDATA[Core Principles Reading Question Chapter 13]]></text>
+    </title>
+    
+    <timer actuate="no">
+      <target-time hours="00" minutes="00" seconds="00" />
+      <max-time hours="00" minutes="00" seconds="00" />
+    </timer>
+    <block>
+      <text><![CDATA[]]></text>
+    </block>
+  </problemset>
+  <mc-problem>
+    
+    <question>
+      <text><![CDATA[Programmed, automatic responses, which require rapid communication between the sensory and motor branches of the nervous system, are called ____________.]]></text>
+    </question>
+    <answers>
+      <answer-correct allow-randomization="yes">
+        <answer>
+          <text><![CDATA[reflexes]]></text>
+        </answer>
+        <explanation>
+          <text><![CDATA[The communication between sensory and motor neurons, as well as interneurons, is illustrated by reflex arcs.]]></text>
+        </explanation>
+      </answer-correct>
+      <answer-incorrect allow-randomization="yes">
+        <answer>
+          <text><![CDATA[plexuses]]></text>
+        </answer>
+        <explanation>
+          <text><![CDATA[A plexus is a network of nerves or blood vessels.]]></text>
+        </explanation>
+      </answer-incorrect>
+      <answer-incorrect allow-randomization="yes">
+        <answer>
+          <text><![CDATA[transductions]]></text>
+        </answer>
+        <explanation>
+          <text><![CDATA[Transduction is the conversion of a stimulus into an electrical signal.]]></text>
+        </explanation>
+      </answer-incorrect>
+      <answer-incorrect allow-randomization="yes">
+        <answer>
+          <text><![CDATA[receptors]]></text>
+        </answer>
+        <explanation>
+          <text><![CDATA[A receptor is a protein which binds to ligands, such as hormones and neurotransmitters, or that responds to a stimulus.]]></text>
+        </explanation>
+      </answer-incorrect>
+    </answers>
+  </mc-problem>
+  <mc-problem>
+    
+    <question>
+      <text><![CDATA[Compared to chemical synapses, electrical synapses: ]]></text>
+    </question>
+    <answers>
+      <answer-correct allow-randomization="yes">
+        <answer>
+          <text><![CDATA[offer faster cell-cell communication]]></text>
+        </answer>
+        <explanation>
+          <text><![CDATA[  ]]></text>
+        </explanation>
+      </answer-correct>
+      <answer-incorrect allow-randomization="yes">
+        <answer>
+          <text><![CDATA[use different neurotransmitters]]></text>
+        </answer>
+        <explanation>
+          <text><![CDATA[Only chemical synapses use neurotransmitters; electrical synapses do not.]]></text>
+        </explanation>
+      </answer-incorrect>
+      <answer-incorrect allow-randomization="yes">
+        <answer>
+          <text><![CDATA[allow for unidirectional communication]]></text>
+        </answer>
+        <explanation>
+          <text><![CDATA[Electrical synapses allow for bidirectional communication; chemical synapses allow for unidirectional communication.]]></text>
+        </explanation>
+      </answer-incorrect>
+      <answer-incorrect allow-randomization="yes">
+        <answer>
+          <text><![CDATA[involve synaptic vesicles]]></text>
+        </answer>
+        <explanation>
+          <text><![CDATA[Synaptic vesicles are important for chemical synapses, not electrical synapses.]]></text>
+        </explanation>
+      </answer-incorrect>
+    </answers>
+  </mc-problem>
+</cwml>
