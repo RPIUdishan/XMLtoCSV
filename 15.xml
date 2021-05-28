@@ -1,5 +1,3 @@
-<cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">
-
   <problemset display-mode="all" randomize-answer-order="yes">
 
     <title>
@@ -25,10 +23,6 @@
     </block>
 
   </problemset>
-
-</cwml>
-
-<cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">
 
   <mc-problem>
 
@@ -107,10 +101,6 @@
     </answers>
 
   </mc-problem>
-
-</cwml>
-
-<cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">
 
   <mc-problem>
 
@@ -191,10 +181,6 @@
     </answers>
 
   </mc-problem>
-
-</cwml>
-
-<cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">
 
   <mc-problem>
 
@@ -278,10 +264,6 @@ each gustatory cell forms a synapse with the receptive endings of a sensory neur
 
   </mc-problem>
 
-</cwml>
-
-<cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">
-
   <mc-problem>
 
     
@@ -361,10 +343,6 @@ each gustatory cell forms a synapse with the receptive endings of a sensory neur
     </answers>
 
   </mc-problem>
-
-</cwml>
-
-<cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">
 
   <mc-problem>
 
@@ -446,10 +424,6 @@ each gustatory cell forms a synapse with the receptive endings of a sensory neur
 
   </mc-problem>
 
-</cwml>
-
-<cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">
-
   <mc-problem>
 
     
@@ -530,10 +504,6 @@ each gustatory cell forms a synapse with the receptive endings of a sensory neur
 
   </mc-problem>
 
-</cwml>
-
-<cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">
-
   <mc-problem>
 
     
@@ -613,10 +583,6 @@ each gustatory cell forms a synapse with the receptive endings of a sensory neur
     </answers>
 
   </mc-problem>
-
-</cwml>
-
-<cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">
 
   <mc-problem>
 
@@ -700,10 +666,6 @@ depolarize and stimulate the retinal ganglion cells.]]></text>
 
   </mc-problem>
 
-</cwml>
-
-<cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">
-
   <mc-problem>
 
     
@@ -783,10 +745,6 @@ depolarize and stimulate the retinal ganglion cells.]]></text>
     </answers>
 
   </mc-problem>
-
-</cwml>
-
-<cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">
 
   <mc-problem>
 
@@ -868,10 +826,6 @@ depolarize and stimulate the retinal ganglion cells.]]></text>
 
   </mc-problem>
 
-</cwml>
-
-<cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">
-
   <mc-problem>
 
     
@@ -952,10 +906,6 @@ depolarize and stimulate the retinal ganglion cells.]]></text>
 
   </mc-problem>
 
-</cwml>
-
-<cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">
-
   <mc-problem>
 
     
@@ -1035,10 +985,6 @@ depolarize and stimulate the retinal ganglion cells.]]></text>
     </answers>
 
   </mc-problem>
-
-</cwml>
-
-<cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">
 
   <mc-problem>
 
@@ -1122,10 +1068,6 @@ it is narrow and stiff.]]></text>
 
   </mc-problem>
 
-</cwml>
-
-<cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">
-
   <mc-problem>
 
     
@@ -1208,10 +1150,6 @@ cells depolarize and release more glutamate, stimulating the neurons of the vest
 
   </mc-problem>
 
-</cwml>
-
-<cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">
-
   <mc-problem>
 
     
@@ -1291,6 +1229,4 @@ cells depolarize and release more glutamate, stimulating the neurons of the vest
     </answers>
 
   </mc-problem>
-
-</cwml>
 
