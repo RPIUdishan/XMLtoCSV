@@ -1,1 +1,1296 @@
-<?xml version="1.0" ?><!DOCTYPE cwml><cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">  <problemset display-mode="all" randomize-answer-order="yes">    <title>      <text><![CDATA[Chapter 15 Test Questions]]></text>    </title>        <timer actuate="no">      <target-time hours="00" minutes="00" seconds="00" />      <max-time hours="00" minutes="00" seconds="00" />    </timer>    <block>      <text><![CDATA[]]></text>    </block>  </problemset></cwml><?xml version="1.0" ?><!DOCTYPE cwml><cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">  <mc-problem>    <question>      <text><![CDATA[Which of the following statements about special senses is correct?]]></text>    </question>    <answers>      <answer-correct allow-randomization="yes">        <answer>          <text><![CDATA[All special senses, except smell, rely on specialized receptor cells to detect stimuli.]]></text>        </answer>        <explanation>          <text><![CDATA[Olfaction is the only special sense in which the receptor cells are neurons, and in this case, they are specialized to detect different odors.]]></text>        </explanation>      </answer-correct>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[Special sense input is carried by both spinal and cranial neurons.]]></text>        </answer>        <explanation>          <text><![CDATA[Special sense input is carried by cranial nerves only; the special sense organs are all housed in the head.]]></text>        </explanation>      </answer-incorrect>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[Special sense stimuli are detected by the receptive endings of sensory neurons.]]></text>        </answer>        <explanation>          <text><![CDATA[Most special senses rely on receptors that are not neurons but instead are specialized cells that detect specific types of stimuli.]]></text>        </explanation>      </answer-incorrect>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[Special senses detect stimuli such as touch, pain, and temperature.]]></text>        </answer>        <explanation>          <text><![CDATA[Those stimuli are detected by the general senses, not the special senses.]]></text>        </explanation>      </answer-incorrect>    </answers>  </mc-problem></cwml><?xml version="1.0" ?><!DOCTYPE cwml><cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">  <mc-problem>        <question>      <text><![CDATA[In olfaction, activation of G-protein-coupled receptors leads to the formation of __________.]]></text>    </question>    <answers>      <answer-correct allow-randomization="yes">        <answer>          <text><![CDATA[cyclic AMP]]></text>        </answer>        <explanation>          <text><![CDATA[The activated G-protein triggers the enzyme adenylate cyclase to convert ATP into cyclic AMP (cAMP).]]></text>        </explanation>      </answer-correct>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[ATP]]></text>        </answer>        <explanation>          <text><![CDATA[When G-proteins activate the enzyme adenylate cyclase, it converts ATP into another molecule. Therefore, ATP is not formed but is used as a precursor.]]></text>        </explanation>      </answer-incorrect>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[Na and Ca ions]]></text>        </answer>        <explanation>          <text><![CDATA[Activation of G-protein-coupled receptors leads to Na and Ca ion influx into the neuron via ion channels but not the formation of Na and Ca ions.]]></text>        </explanation>      </answer-incorrect>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[odorants]]></text>        </answer>        <explanation>          <text><![CDATA[Odorants are the chemicals that are detected by the G-protein-coupled olfactory receptors and activate them.]]></text>        </explanation>      </answer-incorrect>    </answers>  </mc-problem></cwml><?xml version="1.0" ?><!DOCTYPE cwml><cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">  <mc-problem>        <question>      <text><![CDATA[Specialized epithelial cells that contain receptors to detect taste are called __________.]]></text>    </question>    <answers>      <answer-correct allow-randomization="yes">        <answer>          <text><![CDATA[gustatory cells]]></text>        </answer>        <explanation>          <text><![CDATA[Gustatory cells<b> </b>have microvilli with receptors for taste on their apical surface. The basal end ofeach gustatory cell forms a synapse with the receptive endings of a sensory neuron.]]></text>        </explanation>      </answer-correct>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[vallate papillae]]></text>        </answer>        <explanation>          <text><![CDATA[Papillae are rounded projections on the surface of the tongue, which contain taste buds. They are not specialized epithelial cells.]]></text>        </explanation>      </answer-incorrect>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[supporting cells]]></text>        </answer>        <explanation>          <text><![CDATA[Supporting cells provide physical support for the cells that detect taste, but they have no role in sensation.]]></text>        </explanation>      </answer-incorrect>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[taste buds]]></text>        </answer>        <explanation>          <text><![CDATA[Taste buds are not cells but small clusters of receptor cells and supporting cells scattered across the tongue and parts of the oral cavity.]]></text>        </explanation>      </answer-incorrect>    </answers>  </mc-problem></cwml><?xml version="1.0" ?><!DOCTYPE cwml><cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">  <mc-problem>        <question>      <text><![CDATA[Which of the following disorders might result in an inability to sense taste from the anterior two-thirds of the tongue?]]></text>    </question>    <answers>      <answer-correct allow-randomization="yes">        <answer>          <text><![CDATA[facial nerve palsy]]></text>        </answer>        <explanation>          <text><![CDATA[Paralysis of the facial nerve might result in abnormal or reduced taste sensation, because the facial nerve carries taste sensations from the anterior two-thirds of the tongue.]]></text>        </explanation>      </answer-correct>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[trochlear nerve injury]]></text>        </answer>        <explanation>          <text><![CDATA[Trochlear nerve injury will impair vision, not taste.]]></text>        </explanation>      </answer-incorrect>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[trigeminal neuropathy]]></text>        </answer>        <explanation>          <text><![CDATA[Trigeminal nerve dysfunction will lead to severe, stabbing pain in the face but will not impair the transduction of taste.]]></text>        </explanation>      </answer-incorrect>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[hypoglossal nerve injury]]></text>        </answer>        <explanation>          <text><![CDATA[Injury to the hypoglossal nerve will impair swallowing and problems with controlling tongue movement and speech. The hypoglossal nerve is not sensory for taste.]]></text>        </explanation>      </answer-incorrect>    </answers>  </mc-problem></cwml><?xml version="1.0" ?><!DOCTYPE cwml><cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">  <mc-problem>        <question>      <text><![CDATA[Which of the extrinsic eye muscles passes through the trochlea?]]></text>    </question>    <answers>      <answer-correct allow-randomization="yes">        <answer>          <text><![CDATA[superior oblique muscle]]></text>        </answer>        <explanation>          <text><![CDATA[The superior oblique muscle travels from the posterior orbit along the medial wall and through a fibrous loop called the trochlea before inserting on the superolateral part of the eyeball.]]></text>        </explanation>      </answer-correct>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[medial rectus muscle]]></text>        </answer>        <explanation>          <text><![CDATA[The medial rectus muscle extends from a common tendinous ring on the posterior wall of the orbit to insert in the medial surface of the eyeball. ]]></text>        </explanation>      </answer-incorrect>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[lateral rectus muscle]]></text>        </answer>        <explanation>          <text><![CDATA[The lateral rectus muscle extends from a common tendinous ring on the posterior wall of the orbit to insert in the lateral surface of the eyeball.]]></text>        </explanation>      </answer-incorrect>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[inferior oblique muscle]]></text>        </answer>        <explanation>          <text><![CDATA[The inferior oblique muscle originates from the medial floor of the orbit to insert on the inferolateral part of the eyeball.]]></text>        </explanation>      </answer-incorrect>    </answers>  </mc-problem></cwml><?xml version="1.0" ?><!DOCTYPE cwml><cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">  <mc-problem>        <question>      <text><![CDATA[The area of the retina that contains a high density of photoreceptors and enables us to focus on a particular object is called __________.]]></text>    </question>    <answers>      <answer-correct allow-randomization="yes">        <answer>          <text><![CDATA[fovea centralis]]></text>        </answer>        <explanation>          <text><![CDATA[The fovea centralis is located in the center of the macula lutea region of the retina.]]></text>        </explanation>      </answer-correct>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[optic disc]]></text>        </answer>        <explanation>          <text><![CDATA[The optic disc is a portion of the retina that does not contain any photoreceptors.]]></text>        </explanation>      </answer-incorrect>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[lens]]></text>        </answer>        <explanation>          <text><![CDATA[The lens is a separate structure, not part of the retina.]]></text>        </explanation>      </answer-incorrect>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[ora serrata]]></text>        </answer>        <explanation>          <text><![CDATA[The ora serrata is the boundary between anterior retina and the posterior edge of the ciliary body.]]></text>        </explanation>      </answer-incorrect>    </answers>  </mc-problem></cwml><?xml version="1.0" ?><!DOCTYPE cwml><cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">  <mc-problem>        <question>      <text><![CDATA[While viewing a colorful painting in a museum, you will mostly use your __________.]]></text>    </question>    <answers>      <answer-correct allow-randomization="yes">        <answer>          <text><![CDATA[cones]]></text>        </answer>        <explanation>          <text><![CDATA[Cones can detect color, because they contain the pigment photopsin, which responds to wavelengths we perceive as either blue, green, or red.]]></text>        </explanation>      </answer-correct>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[rods]]></text>        </answer>        <explanation>          <text><![CDATA[Rods cannot detect color, but they are very sensitive and capable of responding in less intense light.]]></text>        </explanation>      </answer-incorrect>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[rhodopsin]]></text>        </answer>        <explanation>          <text><![CDATA[The pigment rhodopsin does not distinguish between different wavelengths of visible light and therefore cannot detect color.]]></text>        </explanation>      </answer-incorrect>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[pigmented epithelium ]]></text>        </answer>        <explanation>          <text><![CDATA[The outer pigmented layer of the retina does not contain photoreceptors.]]></text>        </explanation>      </answer-incorrect>    </answers>  </mc-problem></cwml><?xml version="1.0" ?><!DOCTYPE cwml><cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">  <mc-problem>        <question>      <text><![CDATA[Which of the following statements correctly describes transduction in photoreceptors when light stimulates them?]]></text>    </question>    <answers>      <answer-correct allow-randomization="yes">        <answer>          <text><![CDATA[Photoreceptor cells hyperpolarize and stop inhibiting bipolar cells.]]></text>        </answer>        <explanation>          <text><![CDATA[The bipolar cells are freed from inhibition anddepolarize and stimulate the retinal ganglion cells.]]></text>        </explanation>      </answer-correct>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[Photoreceptors depolarize and stimulate bipolar cells.]]></text>        </answer>        <explanation>          <text><![CDATA[Photoreceptors do not stimulate bipolar cells in the presence of light. ]]></text>        </explanation>      </answer-incorrect>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[Photoreceptors depolarize and inhibit bipolar cells.]]></text>        </answer>        <explanation>          <text><![CDATA[This is true about photoreceptors in the dark, but not true when they are stimulated by light.]]></text>        </explanation>      </answer-incorrect>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[Photoreceptors hyperpolarize and inhibit bipolar cells.]]></text>        </answer>        <explanation>          <text><![CDATA[When photoreceptors hyperpolarize, they do not inhibit bipolar cells.]]></text>        </explanation>      </answer-incorrect>    </answers>  </mc-problem></cwml><?xml version="1.0" ?><!DOCTYPE cwml><cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">  <mc-problem>        <question>      <text><![CDATA[Which of the following is NOT one of the auditory ossicles? ]]></text>    </question>    <answers>      <answer-correct allow-randomization="yes">        <answer>          <text><![CDATA[stapedius]]></text>        </answer>        <explanation>          <text><![CDATA[The stapedius is a muscle that reduces movement of the ossicles as a unit.]]></text>        </explanation>      </answer-correct>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[malleus]]></text>        </answer>        <explanation>          <text><![CDATA[The malleus is the hammer-shaped auditory ossicle.]]></text>        </explanation>      </answer-incorrect>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[incus]]></text>        </answer>        <explanation>          <text><![CDATA[The incus is the anvil-shaped auditory ossicle. ]]></text>        </explanation>      </answer-incorrect>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[stapes]]></text>        </answer>        <explanation>          <text><![CDATA[The stapes is the stirrup-shaped auditory ossicle.]]></text>        </explanation>      </answer-incorrect>    </answers>  </mc-problem></cwml><?xml version="1.0" ?><!DOCTYPE cwml><cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">  <mc-problem>        <question>      <text><![CDATA[Ceruminous glands secrete __________.]]></text>    </question>    <answers>      <answer-correct allow-randomization="yes">        <answer>          <text><![CDATA[ear wax]]></text>        </answer>        <explanation>          <text><![CDATA[Ear wax protects the auditory canal from microbes and small insects.]]></text>        </explanation>      </answer-correct>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[tears]]></text>        </answer>        <explanation>          <text><![CDATA[Tears are secreted by the lacrimal glands, not the ceruminous glands.]]></text>        </explanation>      </answer-incorrect>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[mucus]]></text>        </answer>        <explanation>          <text><![CDATA[Mucus is secreted by mucous glands and specialized cells.]]></text>        </explanation>      </answer-incorrect>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[saliva]]></text>        </answer>        <explanation>          <text><![CDATA[Saliva is secreted by salivary glands, not ceruminous glands.]]></text>        </explanation>      </answer-incorrect>    </answers>  </mc-problem></cwml><?xml version="1.0" ?><!DOCTYPE cwml><cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">  <mc-problem>        <question>      <text><![CDATA[Which of the following structures of the inner ear is/are filled with perilymph?]]></text>    </question>    <answers>      <answer-correct allow-randomization="yes">        <answer>          <text><![CDATA[scala vestibuli]]></text>        </answer>        <explanation>          <text><![CDATA[The scala vestibuli is superior to the cochlear duct and continuous with the vestibule near the oval window.]]></text>        </explanation>      </answer-correct>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[tympanic membrane]]></text>        </answer>        <explanation>          <text><![CDATA[The tympanic membrane is not a structure of the inner ear; it separates the outer ear from the middle ear.]]></text>        </explanation>      </answer-incorrect>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[cochlear duct]]></text>        </answer>        <explanation>          <text><![CDATA[The cochlear duct, also known as the scala media, is filled with endolymph.]]></text>        </explanation>      </answer-incorrect>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[semicircular ducts]]></text>        </answer>        <explanation>          <text><![CDATA[The semicircular ducts contain endolymph.]]></text>        </explanation>      </answer-incorrect>    </answers>  </mc-problem></cwml><?xml version="1.0" ?><!DOCTYPE cwml><cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">  <mc-problem>        <question>      <text><![CDATA[Vibrations of the auditory ossicles are transmitted to the cochlea via the __________.]]></text>    </question>    <answers>      <answer-correct allow-randomization="yes">        <answer>          <text><![CDATA[oval window]]></text>        </answer>        <explanation>          <text><![CDATA[The oval window vibrates, causing the liquid in the inner ear to vibrate.]]></text>        </explanation>      </answer-correct>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[tympanic membrane]]></text>        </answer>        <explanation>          <text><![CDATA[The tympanic membrane transmits vibrations to the auditory ossicles. ]]></text>        </explanation>      </answer-incorrect>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[round window]]></text>        </answer>        <explanation>          <text><![CDATA[The round window is located at the end of the scala tympani and allows the fluid in the cochlea to be displaced, because it bulges out into the middle ear.]]></text>        </explanation>      </answer-incorrect>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[auricle]]></text>        </answer>        <explanation>          <text><![CDATA[The auricle is the visible part of the outer ear that funnels sound waves into the external auditory canal.]]></text>        </explanation>      </answer-incorrect>    </answers>  </mc-problem></cwml><?xml version="1.0" ?><!DOCTYPE cwml><cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">  <mc-problem>        <question>      <text><![CDATA[The loud sound of a police siren will cause __________.]]></text>    </question>    <answers>      <answer-correct allow-randomization="yes">        <answer>          <text><![CDATA[strong vibrations of the endolymph and basilar membrane at the base of the cochlea]]></text>        </answer>        <explanation>          <text><![CDATA[Pressure waves from high-frequency sounds travel only a short distance into the cochlea and cause the basilar membrane to vibrate whereit is narrow and stiff.]]></text>        </explanation>      </answer-correct>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[weak vibrations of the endolymph and basilar membrane at the base of the cochlea]]></text>        </answer>        <explanation>          <text><![CDATA[ Weak vibrations are produced by quiet sounds.]]></text>        </explanation>      </answer-incorrect>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[strong vibrations of the endolymph and basilar membrane farther up the cochlea ]]></text>        </answer>        <explanation>          <text><![CDATA[Vibrations that travel farther up the cochlea to where it is wider and more flexible are those produced by low-pitched sounds.]]></text>        </explanation>      </answer-incorrect>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[weak vibrations of the endolymph and basilar membrane farther up the cochlea]]></text>        </answer>        <explanation>          <text><![CDATA[Vibrations that travel farther up the cochlea to where it is wider and more flexible are those produced by low-pitched sounds.]]></text>        </explanation>      </answer-incorrect>    </answers>  </mc-problem></cwml><?xml version="1.0" ?><!DOCTYPE cwml><cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">  <mc-problem>        <question>      <text><![CDATA[When stereocilia of the hair cells of the maculae bend towards the kinocilium, __________.]]></text>    </question>    <answers>      <answer-correct allow-randomization="yes">        <answer>          <text><![CDATA[stimulation of the vestibular nerve increases]]></text>        </answer>        <explanation>          <text><![CDATA[As stereocilia bend toward the kinocilium, the haircells depolarize and release more glutamate, stimulating the neurons of the vestibular nerve.]]></text>        </explanation>      </answer-correct>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[stimulation of the vestibular nerve decreases]]></text>        </answer>        <explanation>          <text><![CDATA[This will be the case if stereocilia bend away from the kinocilium.]]></text>        </explanation>      </answer-incorrect>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[stimulation of the olfactory nerve increases]]></text>        </answer>        <explanation>          <text><![CDATA[The hair cells of the maculae do not stimulate the olfactory nerve.]]></text>        </explanation>      </answer-incorrect>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[stimulation of the olfactory nerve decreases]]></text>        </answer>        <explanation>          <text><![CDATA[The hair cells of the maculae do not stimulate the olfactory nerve.]]></text>        </explanation>      </answer-incorrect>    </answers>  </mc-problem></cwml><?xml version="1.0" ?><!DOCTYPE cwml><cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">  <mc-problem>        <question>      <text><![CDATA[Which of the following special senses is NOT processed by the thalamus?]]></text>    </question>    <answers>      <answer-correct allow-randomization="yes">        <answer>          <text><![CDATA[olfaction]]></text>        </answer>        <explanation>          <text><![CDATA[The olfactory tract carries sensory information to the temporal lobe.]]></text>        </explanation>      </answer-correct>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[hearing]]></text>        </answer>        <explanation>          <text><![CDATA[Hearing is processed in the thalamus.]]></text>        </explanation>      </answer-incorrect>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[vision]]></text>        </answer>        <explanation>          <text><![CDATA[Vision is processed in the thalamus.]]></text>        </explanation>      </answer-incorrect>      <answer-incorrect allow-randomization="yes">        <answer>          <text><![CDATA[taste]]></text>        </answer>        <explanation>          <text><![CDATA[Taste is processed in the thalamus.]]></text>        </explanation>      </answer-incorrect>    </answers>  </mc-problem></cwml>
+<cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <problemset display-mode="all" randomize-answer-order="yes">
+
+    <title>
+
+      <text><![CDATA[Chapter 15 Test Questions]]></text>
+
+    </title>
+
+    
+
+    <timer actuate="no">
+
+      <target-time hours="00" minutes="00" seconds="00" />
+
+      <max-time hours="00" minutes="00" seconds="00" />
+
+    </timer>
+
+    <block>
+
+      <text><![CDATA[]]></text>
+
+    </block>
+
+  </problemset>
+
+</cwml>
+
+<cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <mc-problem>
+
+    <question>
+
+      <text><![CDATA[Which of the following statements about special senses is correct?]]></text>
+
+    </question>
+
+    <answers>
+
+      <answer-correct allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[All special senses, except smell, rely on specialized receptor cells to detect stimuli.]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[Olfaction is the only special sense in which the receptor cells are neurons, and in this case, they are specialized to detect different odors.]]></text>
+
+        </explanation>
+
+      </answer-correct>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[Special sense input is carried by both spinal and cranial neurons.]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[Special sense input is carried by cranial nerves only; the special sense organs are all housed in the head.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[Special sense stimuli are detected by the receptive endings of sensory neurons.]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[Most special senses rely on receptors that are not neurons but instead are specialized cells that detect specific types of stimuli.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[Special senses detect stimuli such as touch, pain, and temperature.]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[Those stimuli are detected by the general senses, not the special senses.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+    </answers>
+
+  </mc-problem>
+
+</cwml>
+
+<cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <mc-problem>
+
+    
+
+    <question>
+
+      <text><![CDATA[In olfaction, activation of G-protein-coupled receptors leads to the formation of __________.]]></text>
+
+    </question>
+
+    <answers>
+
+      <answer-correct allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[cyclic AMP]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[The activated G-protein triggers the enzyme adenylate cyclase to convert ATP into cyclic AMP (cAMP).]]></text>
+
+        </explanation>
+
+      </answer-correct>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[ATP]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[When G-proteins activate the enzyme adenylate cyclase, it converts ATP into another molecule. Therefore, ATP is not formed but is used as a precursor.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[Na and Ca ions]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[Activation of G-protein-coupled receptors leads to Na and Ca ion influx into the neuron via ion channels but not the formation of Na and Ca ions.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[odorants]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[Odorants are the chemicals that are detected by the G-protein-coupled olfactory receptors and activate them.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+    </answers>
+
+  </mc-problem>
+
+</cwml>
+
+<cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <mc-problem>
+
+    
+
+    <question>
+
+      <text><![CDATA[Specialized epithelial cells that contain receptors to detect taste are called __________.]]></text>
+
+    </question>
+
+    <answers>
+
+      <answer-correct allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[gustatory cells]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[Gustatory cells<b> </b>have microvilli with receptors for taste on their apical surface. The basal end of
+
+each gustatory cell forms a synapse with the receptive endings of a sensory neuron.]]></text>
+
+        </explanation>
+
+      </answer-correct>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[vallate papillae]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[Papillae are rounded projections on the surface of the tongue, which contain taste buds. They are not specialized epithelial cells.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[supporting cells]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[Supporting cells provide physical support for the cells that detect taste, but they have no role in sensation.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[taste buds]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[Taste buds are not cells but small clusters of receptor cells and supporting cells scattered across the tongue and parts of the oral cavity.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+    </answers>
+
+  </mc-problem>
+
+</cwml>
+
+<cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <mc-problem>
+
+    
+
+    <question>
+
+      <text><![CDATA[Which of the following disorders might result in an inability to sense taste from the anterior two-thirds of the tongue?]]></text>
+
+    </question>
+
+    <answers>
+
+      <answer-correct allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[facial nerve palsy]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[Paralysis of the facial nerve might result in abnormal or reduced taste sensation, because the facial nerve carries taste sensations from the anterior two-thirds of the tongue.]]></text>
+
+        </explanation>
+
+      </answer-correct>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[trochlear nerve injury]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[Trochlear nerve injury will impair vision, not taste.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[trigeminal neuropathy]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[Trigeminal nerve dysfunction will lead to severe, stabbing pain in the face but will not impair the transduction of taste.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[hypoglossal nerve injury]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[Injury to the hypoglossal nerve will impair swallowing and problems with controlling tongue movement and speech. The hypoglossal nerve is not sensory for taste.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+    </answers>
+
+  </mc-problem>
+
+</cwml>
+
+<cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <mc-problem>
+
+    
+
+    <question>
+
+      <text><![CDATA[Which of the extrinsic eye muscles passes through the trochlea?]]></text>
+
+    </question>
+
+    <answers>
+
+      <answer-correct allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[superior oblique muscle]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[The superior oblique muscle travels from the posterior orbit along the medial wall and through a fibrous loop called the trochlea before inserting on the superolateral part of the eyeball.]]></text>
+
+        </explanation>
+
+      </answer-correct>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[medial rectus muscle]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[The medial rectus muscle extends from a common tendinous ring on the posterior wall of the orbit to insert in the medial surface of the eyeball. ]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[lateral rectus muscle]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[The lateral rectus muscle extends from a common tendinous ring on the posterior wall of the orbit to insert in the lateral surface of the eyeball.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[inferior oblique muscle]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[The inferior oblique muscle originates from the medial floor of the orbit to insert on the inferolateral part of the eyeball.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+    </answers>
+
+  </mc-problem>
+
+</cwml>
+
+<cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <mc-problem>
+
+    
+
+    <question>
+
+      <text><![CDATA[The area of the retina that contains a high density of photoreceptors and enables us to focus on a particular object is called __________.]]></text>
+
+    </question>
+
+    <answers>
+
+      <answer-correct allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[fovea centralis]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[The fovea centralis is located in the center of the macula lutea region of the retina.]]></text>
+
+        </explanation>
+
+      </answer-correct>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[optic disc]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[The optic disc is a portion of the retina that does not contain any photoreceptors.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[lens]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[The lens is a separate structure, not part of the retina.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[ora serrata]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[The ora serrata is the boundary between anterior retina and the posterior edge of the ciliary body.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+    </answers>
+
+  </mc-problem>
+
+</cwml>
+
+<cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <mc-problem>
+
+    
+
+    <question>
+
+      <text><![CDATA[While viewing a colorful painting in a museum, you will mostly use your __________.]]></text>
+
+    </question>
+
+    <answers>
+
+      <answer-correct allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[cones]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[Cones can detect color, because they contain the pigment photopsin, which responds to wavelengths we perceive as either blue, green, or red.]]></text>
+
+        </explanation>
+
+      </answer-correct>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[rods]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[Rods cannot detect color, but they are very sensitive and capable of responding in less intense light.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[rhodopsin]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[The pigment rhodopsin does not distinguish between different wavelengths of visible light and therefore cannot detect color.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[pigmented epithelium ]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[The outer pigmented layer of the retina does not contain photoreceptors.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+    </answers>
+
+  </mc-problem>
+
+</cwml>
+
+<cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <mc-problem>
+
+    
+
+    <question>
+
+      <text><![CDATA[Which of the following statements correctly describes transduction in photoreceptors when light stimulates them?]]></text>
+
+    </question>
+
+    <answers>
+
+      <answer-correct allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[Photoreceptor cells hyperpolarize and stop inhibiting bipolar cells.]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[The bipolar cells are freed from inhibition and
+
+depolarize and stimulate the retinal ganglion cells.]]></text>
+
+        </explanation>
+
+      </answer-correct>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[Photoreceptors depolarize and stimulate bipolar cells.]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[Photoreceptors do not stimulate bipolar cells in the presence of light. ]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[Photoreceptors depolarize and inhibit bipolar cells.]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[This is true about photoreceptors in the dark, but not true when they are stimulated by light.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[Photoreceptors hyperpolarize and inhibit bipolar cells.]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[When photoreceptors hyperpolarize, they do not inhibit bipolar cells.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+    </answers>
+
+  </mc-problem>
+
+</cwml>
+
+<cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <mc-problem>
+
+    
+
+    <question>
+
+      <text><![CDATA[Which of the following is NOT one of the auditory ossicles? ]]></text>
+
+    </question>
+
+    <answers>
+
+      <answer-correct allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[stapedius]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[The stapedius is a muscle that reduces movement of the ossicles as a unit.]]></text>
+
+        </explanation>
+
+      </answer-correct>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[malleus]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[The malleus is the hammer-shaped auditory ossicle.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[incus]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[The incus is the anvil-shaped auditory ossicle. ]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[stapes]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[The stapes is the stirrup-shaped auditory ossicle.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+    </answers>
+
+  </mc-problem>
+
+</cwml>
+
+<cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <mc-problem>
+
+    
+
+    <question>
+
+      <text><![CDATA[Ceruminous glands secrete __________.]]></text>
+
+    </question>
+
+    <answers>
+
+      <answer-correct allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[ear wax]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[Ear wax protects the auditory canal from microbes and small insects.]]></text>
+
+        </explanation>
+
+      </answer-correct>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[tears]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[Tears are secreted by the lacrimal glands, not the ceruminous glands.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[mucus]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[Mucus is secreted by mucous glands and specialized cells.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[saliva]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[Saliva is secreted by salivary glands, not ceruminous glands.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+    </answers>
+
+  </mc-problem>
+
+</cwml>
+
+<cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <mc-problem>
+
+    
+
+    <question>
+
+      <text><![CDATA[Which of the following structures of the inner ear is/are filled with perilymph?]]></text>
+
+    </question>
+
+    <answers>
+
+      <answer-correct allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[scala vestibuli]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[The scala vestibuli is superior to the cochlear duct and continuous with the vestibule near the oval window.]]></text>
+
+        </explanation>
+
+      </answer-correct>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[tympanic membrane]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[The tympanic membrane is not a structure of the inner ear; it separates the outer ear from the middle ear.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[cochlear duct]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[The cochlear duct, also known as the scala media, is filled with endolymph.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[semicircular ducts]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[The semicircular ducts contain endolymph.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+    </answers>
+
+  </mc-problem>
+
+</cwml>
+
+<cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <mc-problem>
+
+    
+
+    <question>
+
+      <text><![CDATA[Vibrations of the auditory ossicles are transmitted to the cochlea via the __________.]]></text>
+
+    </question>
+
+    <answers>
+
+      <answer-correct allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[oval window]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[The oval window vibrates, causing the liquid in the inner ear to vibrate.]]></text>
+
+        </explanation>
+
+      </answer-correct>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[tympanic membrane]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[The tympanic membrane transmits vibrations to the auditory ossicles. ]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[round window]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[The round window is located at the end of the scala tympani and allows the fluid in the cochlea to be displaced, because it bulges out into the middle ear.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[auricle]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[The auricle is the visible part of the outer ear that funnels sound waves into the external auditory canal.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+    </answers>
+
+  </mc-problem>
+
+</cwml>
+
+<cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <mc-problem>
+
+    
+
+    <question>
+
+      <text><![CDATA[The loud sound of a police siren will cause __________.]]></text>
+
+    </question>
+
+    <answers>
+
+      <answer-correct allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[strong vibrations of the endolymph and basilar membrane at the base of the cochlea]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[Pressure waves from high-frequency sounds travel only a short distance into the cochlea and cause the basilar membrane to vibrate where
+
+it is narrow and stiff.]]></text>
+
+        </explanation>
+
+      </answer-correct>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[weak vibrations of the endolymph and basilar membrane at the base of the cochlea]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[ Weak vibrations are produced by quiet sounds.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[strong vibrations of the endolymph and basilar membrane farther up the cochlea ]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[Vibrations that travel farther up the cochlea to where it is wider and more flexible are those produced by low-pitched sounds.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[weak vibrations of the endolymph and basilar membrane farther up the cochlea]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[Vibrations that travel farther up the cochlea to where it is wider and more flexible are those produced by low-pitched sounds.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+    </answers>
+
+  </mc-problem>
+
+</cwml>
+
+<cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <mc-problem>
+
+    
+
+    <question>
+
+      <text><![CDATA[When stereocilia of the hair cells of the maculae bend towards the kinocilium, __________.]]></text>
+
+    </question>
+
+    <answers>
+
+      <answer-correct allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[stimulation of the vestibular nerve increases]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[As stereocilia bend toward the kinocilium, the hair
+
+cells depolarize and release more glutamate, stimulating the neurons of the vestibular nerve.]]></text>
+
+        </explanation>
+
+      </answer-correct>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[stimulation of the vestibular nerve decreases]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[This will be the case if stereocilia bend away from the kinocilium.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[stimulation of the olfactory nerve increases]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[The hair cells of the maculae do not stimulate the olfactory nerve.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[stimulation of the olfactory nerve decreases]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[The hair cells of the maculae do not stimulate the olfactory nerve.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+    </answers>
+
+  </mc-problem>
+
+</cwml>
+
+<cwml version="1.5" xml:base="http://www.pearsoned.com/2000/wps" xml:lang="en-US" xmlns="http://www.pearsoned.com/2004/xmlns/cwml/1.5" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <mc-problem>
+
+    
+
+    <question>
+
+      <text><![CDATA[Which of the following special senses is NOT processed by the thalamus?]]></text>
+
+    </question>
+
+    <answers>
+
+      <answer-correct allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[olfaction]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[The olfactory tract carries sensory information to the temporal lobe.]]></text>
+
+        </explanation>
+
+      </answer-correct>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[hearing]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[Hearing is processed in the thalamus.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[vision]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[Vision is processed in the thalamus.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+      <answer-incorrect allow-randomization="yes">
+
+        <answer>
+
+          <text><![CDATA[taste]]></text>
+
+        </answer>
+
+        <explanation>
+
+          <text><![CDATA[Taste is processed in the thalamus.]]></text>
+
+        </explanation>
+
+      </answer-incorrect>
+
+    </answers>
+
+  </mc-problem>
+
+</cwml>
+
